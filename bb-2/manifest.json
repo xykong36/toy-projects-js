@@ -22,7 +22,7 @@
                 "output.css"
             ],
             "js": [
-                "scripts/content.js"
+                "dist/content.bundle.js"
             ],
             "matches": [
                 "https://www.bilibili.com/video/*"

@@ -2,8 +2,12 @@
 module.exports = {
   content: ["./scripts/*.js", "./*.html"],
   theme: {
-    extend: {},
-  },
-  plugins: [],
+    extend: {
+      colors: {
+        'bg-sky-500': '#00aeec'
+      }
+    },
+    plugins: [],
+  }
 }
 
