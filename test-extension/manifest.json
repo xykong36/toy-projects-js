@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Local-BB2",
-    "version": "1.1",
+    "name": "BiliBuddy",
+    "version": "2.0",
     "description": "通过机器学习算法推荐B站相似Up主，你的B站探索助手",
     "icons": {
         "16": "images/icon-16.png",
